@@ -1,3 +1,5 @@
+#  Flag --ntasks tested with values of 16, 32, 64
+
 Model:  BertLarge
 Date:  04/08/24
 Time:  09:16
